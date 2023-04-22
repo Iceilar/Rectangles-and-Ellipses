@@ -1,0 +1,11 @@
+C:\Users\Vedro\source\repos\Seminar_OOP_20.03.23\Seminar_OOP_20.03.23\obj\Debug\Seminar_OOP_20.03.23.csproj.AssemblyReference.cache
+C:\Users\Vedro\source\repos\Seminar_OOP_20.03.23\Seminar_OOP_20.03.23\obj\Debug\Seminar_OOP_20.03.23.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vedro\source\repos\Seminar_OOP_20.03.23\Seminar_OOP_20.03.23\obj\Debug\Seminar_OOP_20._03._23.Form1.resources
+C:\Users\Vedro\source\repos\Seminar_OOP_20.03.23\Seminar_OOP_20.03.23\obj\Debug\Seminar_OOP_20._03._23.Properties.Resources.resources
+C:\Users\Vedro\source\repos\Seminar_OOP_20.03.23\Seminar_OOP_20.03.23\obj\Debug\Seminar_OOP_20.03.23.csproj.GenerateResource.cache
+C:\Users\Vedro\source\repos\Seminar_OOP_20.03.23\Seminar_OOP_20.03.23\obj\Debug\Seminar_OOP_20.03.23.csproj.CoreCompileInputs.cache
+C:\Users\Vedro\source\repos\Seminar_OOP_20.03.23\Seminar_OOP_20.03.23\bin\Debug\Seminar_OOP_20.03.23.exe.config
+C:\Users\Vedro\source\repos\Seminar_OOP_20.03.23\Seminar_OOP_20.03.23\bin\Debug\Seminar_OOP_20.03.23.exe
+C:\Users\Vedro\source\repos\Seminar_OOP_20.03.23\Seminar_OOP_20.03.23\bin\Debug\Seminar_OOP_20.03.23.pdb
+C:\Users\Vedro\source\repos\Seminar_OOP_20.03.23\Seminar_OOP_20.03.23\obj\Debug\Seminar_OOP_20.03.23.exe
+C:\Users\Vedro\source\repos\Seminar_OOP_20.03.23\Seminar_OOP_20.03.23\obj\Debug\Seminar_OOP_20.03.23.pdb
